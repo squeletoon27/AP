@@ -1,0 +1,21 @@
+C:\Users\élève\Desktop\AP3\AP3\bin\Debug\AP3.exe.config
+C:\Users\élève\Desktop\AP3\AP3\bin\Debug\AP3.exe
+C:\Users\élève\Desktop\AP3\AP3\bin\Debug\AP3.pdb
+C:\Users\élève\Desktop\AP3\AP3\obj\Debug\AP3.csproj.AssemblyReference.cache
+C:\Users\élève\Desktop\AP3\AP3\obj\Debug\AP3.csproj.CoreCompileInputs.cache
+C:\Users\élève\Desktop\AP3\AP3\obj\Debug\AP3.exe
+C:\Users\élève\Desktop\AP3\AP3\obj\Debug\AP3.pdb
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.exe.config
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.exe
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.pdb
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.csproj.AssemblyReference.cache
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.csproj.CoreCompileInputs.cache
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.exe
+C:\Users\élève\Desktop\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.pdb
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.exe.config
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.exe
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\bin\Debug\AP3.pdb
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.csproj.AssemblyReference.cache
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.csproj.CoreCompileInputs.cache
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.exe
+C:\Users\élève\Desktop\Travaux avec Madame Hellard\AP\AP2_Alexandre\AP2\AP3\obj\Debug\AP3.pdb
